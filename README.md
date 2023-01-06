@@ -8,14 +8,14 @@
 
 - 🌱 I’m currently learning **new frontend and backend technologies :man_technologist:** 
 - 📈 I'm motivated to **learn new things every day 🔋**
-- 🥅 2022 Goals: **Contribute to Open Source projects**
+- 🥅 2023 Goals: **Contribute to Open Source projects**
 - ⚡ Fun facts: **I usually play in a music band 🎵 and I love to play mobile games 📱**
 - 📫 How to reach me **miguelromeroarjona@gmail.com**
 
 ### Connect with me:
 
-[<img align="left" alt="Miguel Romero Arjona | Web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Miguel Romero Arjona | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Miguel Romero Arjona | Web" width="93px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=yellow" />][website]
+[<img align="left" alt="Miguel Romero Arjona | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
 
@@ -85,11 +85,11 @@
 			<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
 				<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 			</a>
+			<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
+			</a>
 		</p>
 	</td>
-  </tr>
-  <tr>
-  
   </tr>
   <tr>
     <th><p align="center">Platform as a Service(PaaS)</p></th>
@@ -132,7 +132,7 @@
 			</a> <!-- <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
 				<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
 			</a> --> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-				<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
 			</a>
 		</p>
 	</td>
