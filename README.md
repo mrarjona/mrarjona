@@ -1,5 +1,3 @@
-![MasterHead](https://snyk.io/wp-content/uploads/blog-banner-github-scanning.png)
-
 ### Hi there, I'm Miguel - aka [migromarj][website] 👋 
 
 ## I'm a student of Computer Software Engineering at the University of Seville.
@@ -88,6 +86,9 @@
 			<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
 			</a>
+	    		<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/> 
+			</a>
 		</p>
 	</td>
   </tr>
@@ -96,6 +97,8 @@
     <td><p align="center">
 			 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> 
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/> 
+			</a> <a href="https://www.pythonanywhere.com/" target="_blank" rel="noreferrer"> 
+				<img src="https://www.pythonanywhere.com/static/anywhere/images/PA-logo-snake-only.svg" alt="pythonanywhere" width="40" height="40"/> 
 			</a>
 		</p>
 	</td>
@@ -114,20 +117,20 @@
     <td><p align="center">
 			<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
 				<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-			<!-- </a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-				<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> -->
 			</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-			</a>	
+			</a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+	    		</a>
 		</p>
 	</td>
 	</tr>
   <tr>
     <th><p align="center">Devops</p></th>
     <td><p align="center">
-			<!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+			<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-			</a>  --> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+			</a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
 				<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
 			</a> <!-- <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
 				<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
@@ -176,12 +179,12 @@
   
   <div align="center">
   
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=migromarj&hide=stars&show_icons=true&title_color=ffbe16&icon_color=ffbe16&text_color=ffbe16&bg_color=67089e&locale=en" alt="migromarj stats" />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=migromarj&hide=stars&show_icons=true&title_color=2da0ff&icon_color=fb8c00&text_color=f2e96a&bg_color=3d3846&locale=en" alt="migromarj stats" />
   </p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=migromarj&background=67089E&dates=FFBE16&currStreakNum=FFBE16&ring=FFBE16&sideLabels=FFBE16&sideNums=FFBE16" alt="migromarj" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=migromarj&background=3d3846&dates=2da0ff&currStreakNum=f2e96a&ring=2da0ff&sideLabels=f2e96a&sideNums=f2e96a" alt="migromarj" /></p>
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migromarj&title_color=ffbe16&icon_color=ffbe16&text_color=ffbe16&bg_color=67089e" alt="migromarj" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migromarj&title_color=2da0ff&icon_color=d600ff&text_color=f2e96a&bg_color=3d3846" alt="migromarj" /></p>
 
 </div>
 
