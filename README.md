@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="https://github.com/migromarj/Readme-Images/blob/master/migromarj/readme-header-800.png" alt="MasterHead">
+</p>
+
 ### Hi there, I'm Miguel - aka [migromarj][website] 👋 
 
 ## I'm a student of Computer Software Engineering at the University of Seville.
