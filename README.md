@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/migromarj/Readme-Images/blob/master/migromarj/readme-header-800.png" alt="MasterHead">
+	<img src="https://github.com/migromarj/Readme-Images/blob/master/migromarj/github-header-image.png" alt="MasterHead">
 </p>
 
 ## I'm a student of Software Engineering master's degree at the University of Seville.
