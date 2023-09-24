@@ -2,21 +2,18 @@
 	<img src="https://github.com/migromarj/Readme-Images/blob/master/migromarj/readme-header-800.png" alt="MasterHead">
 </p>
 
-### Hi there, I'm Miguel - aka [migromarj][website] 👋 
-
-## I'm a student of Computer Software Engineering at the University of Seville.
+## I'm a student of Software Engineering master's degree at the University of Seville.
 
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-- 🌱 I’m currently learning **new frontend and backend technologies :man_technologist:** 
+- :toolbox: I’m currently working on **test automation for web APIs :man_technologist:** 
 - 📈 I'm motivated to **learn new things every day 🔋**
 - 🥅 2023 Goals: **Contribute to Open Source projects**
 - ⚡ Fun facts: **I usually play in a music band 🎵 and I love to play mobile games 📱**
-- 📫 How to reach me **miguelromeroarjona@gmail.com**
+- 📫 How to reach me: **miguelromeroarjona@gmail.com**
 
 ### Connect with me:
 
-[<img align="left" alt="Miguel Romero Arjona | Web" width="93px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=yellow" />][website]
 [<img align="left" alt="Miguel Romero Arjona | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
@@ -196,5 +193,4 @@
 
 <hr>
 
-[website]: https://migromarj.vercel.app/
 [linkedin]: https://www.linkedin.com/in/miguel-romero-arjona
