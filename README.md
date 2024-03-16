@@ -6,9 +6,9 @@
 
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-- :toolbox: I’m currently working on **test automation for web APIs :man_technologist:** 
+- :toolbox: I’m currently working on **automated detection of bugs in AI-driven search engines :man_technologist:** 
 - 📈 I'm motivated to **learn new things every day 🔋**
-- 🥅 2023 Goals: **Contribute to Open Source projects**
+- 🥅 2024 Goals: **Contribute to Open Source projects**
 - ⚡ Fun facts: **I usually play in a music band 🎵 and I love to play mobile games 📱**
 - 📫 How to reach me: **miguelromeroarjona@gmail.com**
 
