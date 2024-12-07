@@ -1,8 +1,8 @@
 <p align="center">
-	<img src="https://github.com/migromarj/Readme-Images/blob/master/migromarj/github-header-image.png" alt="MasterHead">
+	<img src="https://github.com/mrarjona/Readme-Images/blob/master/mrarjona/github-header-image.png" alt="MasterHead">
 </p>
 
-## I'm a student of Software Engineering master's degree at the University of Seville.
+## PhD student of Computer Science at the University of Seville
 
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
@@ -12,8 +12,9 @@
 - ⚡ Fun facts: **I usually play in a music band 🎵 and I love to play mobile games 📱**
 - 📫 How to reach me: **miguelromeroarjona@gmail.com**
 
-### Connect with me:
+### Connect with me
 
+[<img align="left" alt="Miguel Romero Arjona | Website" width="93px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=yellow" />][website]
 [<img align="left" alt="Miguel Romero Arjona | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
@@ -180,12 +181,12 @@
   
   <div align="center">
   
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=migromarj&hide=stars&show_icons=true&title_color=2da0ff&icon_color=fb8c00&text_color=f2e96a&bg_color=3d3846&locale=en" alt="migromarj stats" />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrarjona&hide=stars&show_icons=true&title_color=2da0ff&icon_color=fb8c00&text_color=f2e96a&bg_color=3d3846&locale=en" alt="mrarjona stats" />
   </p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=migromarj&background=3d3846&dates=2da0ff&currStreakNum=f2e96a&ring=2da0ff&sideLabels=f2e96a&sideNums=f2e96a" alt="migromarj" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mrarjona&background=3d3846&dates=2da0ff&currStreakNum=f2e96a&ring=2da0ff&sideLabels=f2e96a&sideNums=f2e96a" alt="mrarjona" /></p>
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migromarj&title_color=2da0ff&icon_color=d600ff&text_color=f2e96a&bg_color=3d3846" alt="migromarj" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrarjona&title_color=2da0ff&icon_color=d600ff&text_color=f2e96a&bg_color=3d3846" alt="mrarjona" /></p>
 
 </div>
 
@@ -193,4 +194,5 @@
 
 <hr>
 
-[linkedin]: https://www.linkedin.com/in/miguel-romero-arjona
+[website]: https://mrarjona.github.io
+[linkedin]: https://www.linkedin.com/in/mrarjona
