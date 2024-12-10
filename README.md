@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/mrarjona/Readme-Images/blob/master/mrarjona/github-header-image.png" alt="MasterHead">
+	<img src="https://github.com/mrarjona/mrarjona/blob/assets/readme-banner.png" alt="MasterHead">
 </p>
 
 ## PhD student of Computer Science at the University of Seville
@@ -12,16 +12,17 @@
 - ⚡ Fun facts: **I usually play in a music band 🎵 and I love to play mobile games 📱**
 - 📫 How to reach me: **miguelromeroarjona@gmail.com**
 
+<!--
 ### Connect with me
 
 [<img align="left" alt="Miguel Romero Arjona | Website" width="93px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=yellow" />][website]
 [<img align="left" alt="Miguel Romero Arjona | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-
+-->
 <br />
 
 <hr>
 <details>
-<summary>💻 Languages and Tools</summary>
+<summary>💻 Programming languages and tools</summary>
 
 <hr>
 
@@ -74,7 +75,7 @@
 			</a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 			</a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind css" width="40" height="40"/> 
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind css" width="40" height="40"/> 
 			</a>
 		</p>
 	</td>
@@ -156,6 +157,9 @@
   <tr>
     <th><p align="center">Other</p></th>
     <td><p align="center">
+	    		</a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> 
+			</a>
 			<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 				<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 			</a><a href="npmjs" target="_blank" rel="noreferrer"> 
@@ -175,7 +179,7 @@
 <hr>
 
 <details>
-  <summary>:bar_chart: GitHub Stats</summary>
+  <summary>:bar_chart: GitHub stats</summary>
 
   <hr>
   
