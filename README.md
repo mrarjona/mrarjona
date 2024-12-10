@@ -4,7 +4,7 @@
 
 ## PhD student of Computer Science at the University of Seville
 
-<img align="right" alt="Coding" width="180" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+<img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 - :toolbox: I’m currently working on **automated detection of bugs in AI-driven search engines :man_technologist:** 
 - 📈 I'm motivated to **learn new things every day 🔋**
